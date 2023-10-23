@@ -2,3 +2,6 @@ spring:
   application:
     name: mspayment-dev
 
+myconfig:
+  pps: 112233
+
