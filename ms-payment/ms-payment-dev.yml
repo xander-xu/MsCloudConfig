@@ -1,4 +1,4 @@
 spring:
   application:
-    name: payment-dev
+    name: ms-payment-dev
 
