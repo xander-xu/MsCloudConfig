@@ -3,5 +3,5 @@ spring:
     name: mspayment-dev
 
 myconfig:
-  pps: 112233
+  pps: 1234
 
